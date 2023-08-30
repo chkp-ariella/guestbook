@@ -1,0 +1,14 @@
+apiVersion: "v2"
+name: "guestbook"
+version: "0.2.0"
+appVersion: "v0.1.0"
+description: "The guestbook app as a Helm chart with Helmfile wrapping."
+home: "https://checkpoint.com"
+type: "application"
+maintainers:
+  - name: "Ariel Lahiany"
+    email: "ariela@checkpoint.com"
+keywords:
+  - "argo-cd"
+  - "guestbook"
+  - "helmfile"
